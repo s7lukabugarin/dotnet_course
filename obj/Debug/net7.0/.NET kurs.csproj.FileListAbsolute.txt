@@ -1,0 +1,33 @@
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\appsettings.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\.NET kurs.exe
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\.NET kurs.deps.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\.NET kurs.runtimeconfig.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\.NET kurs.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\.NET kurs.pdb
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.csproj.AssemblyReference.cache
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.AssemblyInfoInputs.cache
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.AssemblyInfo.cs
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.csproj.CoreCompileInputs.cache
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets\msbuild..NET kurs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets\msbuild.build..NET kurs.props
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting..NET kurs.props
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive..NET kurs.props
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\scopedcss\bundle\.NET kurs.styles.css
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.csproj.CopyComplete
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\refint\.NET kurs.dll
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.pdb
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\.NET kurs.genruntimeconfig.cache
+C:\Users\S7DEVQ843-D3\Desktop\Projects Backend\.NET kurs\obj\Debug\net7.0\ref\.NET kurs.dll
